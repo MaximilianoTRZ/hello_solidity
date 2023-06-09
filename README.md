@@ -4,7 +4,8 @@
 
 
 
-## Contrato desplegado
+## Smart Contract Deployed
+Remix IDE was used to develop, compile and deploy this Smart Contract to the Spolia testnet.
 https://sepolia.etherscan.io/tx/0xc60255af99da642d7028c709f12a0360a565544e7eb893869ce19838b844f2cd
 
 ## Faucet
